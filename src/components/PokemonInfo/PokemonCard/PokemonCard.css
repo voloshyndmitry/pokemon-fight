@@ -1,0 +1,35 @@
+.chat {
+    height: 50%;
+    width: 100%;
+}
+
+.chat img {
+    height: 100%
+}
+
+span {
+    width: 100px;
+    color: green;
+    background: #bebebe;
+    padding: 10px;
+    border-radius: 30px;
+    position: absolute;
+    top: 40px
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+img.reflected {
+    transform: scaleX(-1) !important;
+}
+
+.chat-shipped {
+    border: 3px solid;
+    box-sizing: border-box;
+    border-radius: 10px;
+    position: relative;
+
+    padding: 10px;
+}
